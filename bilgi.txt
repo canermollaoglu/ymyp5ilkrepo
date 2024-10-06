@@ -1,0 +1,15 @@
+git config --global user.name "Caner Mollaoğlu"
+
+git config --global user.email "canermollaoglu@hotmail.com"
+
+git init
+
+git status 
+
+git add bilgi.txt (bilgi.txt dosyasını versiyonla)
+git add . (tum dosyaları versiyonlamak için ekle)
+
+git log 
+
+git commit -m "bilgi dosyası güncellendi."
+
